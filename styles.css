@@ -1,0 +1,22 @@
+.jumbotron {
+  background-image: url("images/two-person-riding-blue-bodyboard-1533729.jpg");
+  height: 515px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.testimonials-img {
+  height: 360px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-1 {
+  background-image: url("images/photo-of-man-sitting-on-surfboard-1588988.jpg");
+}
+
+.img-2 {
+  background-image: url("images/blue-and-white-food-car-769158.jpg");
+}
